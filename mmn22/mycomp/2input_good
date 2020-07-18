@@ -1,0 +1,112 @@
+print_comp A
+print_comp          B
+    print_comp C
+      print_comp    D
+        print_comp          E           
+  print_comp   F
+  
+read_comp A , 2 , 3
+read_comp B , 4 , 5
+read_comp C , 6 , 7
+read_comp D , 8 , 9
+read_comp E , 10 , 11
+read_comp F , 12 , 13
+
+print_comp A
+print_comp B
+print_comp C
+print_comp D
+print_comp E
+print_comp F
+
+sub_comp B, A
+sub_comp D, C
+sub_comp F, E
+sub_comp A, B
+sub_comp C, D
+sub_comp E, F
+add_comp A, B
+add_comp C, D
+add_comp E, F
+
+mult_comp_real A, 3
+mult_comp_real B, 3
+mult_comp_real C, 3
+mult_comp_real D, 3
+mult_comp_real E, 3
+mult_comp_real F, 3
+
+mult_comp_img A, 2
+mult_comp_img B, 2
+mult_comp_img C, 2
+mult_comp_img D, 2
+mult_comp_img E, 2
+mult_comp_img F, 2
+
+mult_comp_comp A, B
+mult_comp_comp A, F
+mult_comp_comp B, C
+mult_comp_comp B, E
+mult_comp_comp C, D
+mult_comp_comp E, F
+
+abs_comp A
+abs_comp B
+abs_comp C
+abs_comp D
+abs_comp E
+abs_comp F
+
+read_comp A , .2 , 3030
+read_comp B , 40.85 , 5123.5123
+read_comp C , 666 , .556
+read_comp D , -3 , 23049123
+read_comp E , .01 , 10
+read_comp F , -999 , 190
+
+print_comp A
+print_comp B
+print_comp C
+print_comp D
+print_comp E
+print_comp F
+
+sub_comp B, A
+sub_comp D, C
+sub_comp F, E
+sub_comp A, B
+sub_comp C, D
+sub_comp E, F
+
+add_comp A, B
+add_comp C, D
+add_comp E, F
+
+mult_comp_real A, 2
+mult_comp_real B, 2
+mult_comp_real C, 2
+mult_comp_real D, 2
+mult_comp_real E, 2
+mult_comp_real F, 2
+
+mult_comp_img A, 2
+mult_comp_img B, 2
+mult_comp_img C, 2
+mult_comp_img D, 2
+mult_comp_img E, 2
+mult_comp_img F, 2
+
+mult_comp_comp A, B
+mult_comp_comp A, F
+mult_comp_comp B, C
+mult_comp_comp B, E
+mult_comp_comp C, D
+mult_comp_comp E, F
+
+abs_comp A
+abs_comp B
+abs_comp C
+abs_comp D
+abs_comp E
+abs_comp F
+stop

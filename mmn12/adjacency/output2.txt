@@ -1,0 +1,74 @@
+The matrix size is: 3
+
+Enter value for matrix[0][0]:
+Enter value for matrix[0][1]:
+Enter value for matrix[0][2]:
+Enter value for matrix[1][0]:
+Enter value for matrix[1][1]:
+Enter value for matrix[1][2]:
+Enter value for matrix[2][0]:
+Enter value for matrix[2][1]:
+Enter value for matrix[2][2]:
+
+Two Dimensional array Matrix:
+
+		0	1	2
+		__	__	__	
+
+0	|	0	0	0
+
+1	|	1	0	1
+
+2	|	0	0	0
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 0 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 1 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 2 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 1, and 0 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 1, and 1 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 1, and 2 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 2, and 0 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 2, and 1 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 2, and 2 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 

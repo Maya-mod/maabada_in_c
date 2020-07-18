@@ -1,0 +1,132 @@
+############################################################################################################
+		                   ~Welcome to my complex calculator~                   
+
+		    Please enter function name followed by A-F letters & two numbers   
+		                 The availble functions are as followed                      
+*read_comp* *abs_comp* *print_comp* *add_comp* *sub_comp* *mult_comp_comp* *mult_comp_real* *mult_comp_img*
+
+		                       to stop, just write 'stop'                        
+
+-----➜
+The command you have entered is: ➜ read_comp A, 1.23, -2
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp B, 2.23 , 2.7834
+ 
+
+-----➜
+The command you have entered is: ➜ kkkk A, 1, 2
+ 
+Undefined command name
+
+-----➜
+The command you have entered is: ➜ read_comp W, 1, 2
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ read_comp AA, 1, 2
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ read_comp A, A, 2
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ read_comp A ,  1, A
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ print_comp A
+ 
+1.23 - (2.00)i
+-----➜
+The command you have entered is: ➜ print_comp 1
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ add_comp A, B
+ 
+3.46 + (0.78)i
+-----➜
+The command you have entered is: ➜ add_comp 1, B
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ add_comp A, W
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ sub_comp A, B
+ 
+-1.00 - (4.78)i
+-----➜
+The command you have entered is: ➜ sub_comp 1, B
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ sub_comp A, W
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ mult_comp_real A, 1.1
+ 
+1.35 - (2.20)i
+-----➜
+The command you have entered is: ➜ mult_comp_real G, 1.1
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ mult_comp_real A, A
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ mult_comp_img A, 1.1
+ 
+2.20 + (1.35)i
+-----➜
+The command you have entered is: ➜ mult_comp_img G, 1.1
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ mult_comp_img A, A
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp A, B
+ 
+8.31 - (1.04)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp A, 1.1
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp G, A
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ abs_comp A
+ 
+2.35 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp 1
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ stop 

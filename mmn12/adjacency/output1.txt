@@ -1,0 +1,273 @@
+The matrix size is: 11
+
+Enter value for matrix[0][0]:
+Enter value for matrix[0][1]:
+Enter value for matrix[0][2]:
+Enter value for matrix[0][3]:
+Enter value for matrix[0][4]:
+Enter value for matrix[0][5]:
+Enter value for matrix[0][6]:
+Enter value for matrix[0][7]:
+Enter value for matrix[0][8]:
+Enter value for matrix[0][9]:
+Enter value for matrix[0][10]:
+Enter value for matrix[1][0]:
+Enter value for matrix[1][1]:
+Enter value for matrix[1][2]:
+Enter value for matrix[1][3]:
+Enter value for matrix[1][4]:
+Enter value for matrix[1][5]:
+Enter value for matrix[1][6]:
+Enter value for matrix[1][7]:
+Enter value for matrix[1][8]:
+Enter value for matrix[1][9]:
+Enter value for matrix[1][10]:
+Enter value for matrix[2][0]:
+Enter value for matrix[2][1]:
+Enter value for matrix[2][2]:
+Enter value for matrix[2][3]:
+Enter value for matrix[2][4]:
+Enter value for matrix[2][5]:
+Enter value for matrix[2][6]:
+Enter value for matrix[2][7]:
+Enter value for matrix[2][8]:
+Enter value for matrix[2][9]:
+Enter value for matrix[2][10]:
+Enter value for matrix[3][0]:
+Enter value for matrix[3][1]:
+Enter value for matrix[3][2]:
+Enter value for matrix[3][3]:
+Enter value for matrix[3][4]:
+Enter value for matrix[3][5]:
+Enter value for matrix[3][6]:
+Enter value for matrix[3][7]:
+Enter value for matrix[3][8]:
+Enter value for matrix[3][9]:
+Enter value for matrix[3][10]:
+Enter value for matrix[4][0]:
+Enter value for matrix[4][1]:
+Enter value for matrix[4][2]:
+Enter value for matrix[4][3]:
+Enter value for matrix[4][4]:
+Enter value for matrix[4][5]:
+Enter value for matrix[4][6]:
+Enter value for matrix[4][7]:
+Enter value for matrix[4][8]:
+Enter value for matrix[4][9]:
+Enter value for matrix[4][10]:
+Enter value for matrix[5][0]:
+Enter value for matrix[5][1]:
+Enter value for matrix[5][2]:
+Enter value for matrix[5][3]:
+Enter value for matrix[5][4]:
+Enter value for matrix[5][5]:
+Enter value for matrix[5][6]:
+Enter value for matrix[5][7]:
+Enter value for matrix[5][8]:
+Enter value for matrix[5][9]:
+Enter value for matrix[5][10]:
+Enter value for matrix[6][0]:
+Enter value for matrix[6][1]:
+Enter value for matrix[6][2]:
+Enter value for matrix[6][3]:
+Enter value for matrix[6][4]:
+Enter value for matrix[6][5]:
+Enter value for matrix[6][6]:
+Enter value for matrix[6][7]:
+Enter value for matrix[6][8]:
+Enter value for matrix[6][9]:
+Enter value for matrix[6][10]:
+Enter value for matrix[7][0]:
+Enter value for matrix[7][1]:
+Enter value for matrix[7][2]:
+Enter value for matrix[7][3]:
+Enter value for matrix[7][4]:
+Enter value for matrix[7][5]:
+Enter value for matrix[7][6]:
+Enter value for matrix[7][7]:
+Enter value for matrix[7][8]:
+Enter value for matrix[7][9]:
+Enter value for matrix[7][10]:
+Enter value for matrix[8][0]:
+Enter value for matrix[8][1]:
+Enter value for matrix[8][2]:
+Enter value for matrix[8][3]:
+Enter value for matrix[8][4]:
+Enter value for matrix[8][5]:
+Enter value for matrix[8][6]:
+Enter value for matrix[8][7]:
+Enter value for matrix[8][8]:
+Enter value for matrix[8][9]:
+Enter value for matrix[8][10]:
+Enter value for matrix[9][0]:
+Enter value for matrix[9][1]:
+Enter value for matrix[9][2]:
+Enter value for matrix[9][3]:
+Enter value for matrix[9][4]:
+Enter value for matrix[9][5]:
+Enter value for matrix[9][6]:
+Enter value for matrix[9][7]:
+Enter value for matrix[9][8]:
+Enter value for matrix[9][9]:
+Enter value for matrix[9][10]:
+Enter value for matrix[10][0]:
+Enter value for matrix[10][1]:
+Enter value for matrix[10][2]:
+Enter value for matrix[10][3]:
+Enter value for matrix[10][4]:
+Enter value for matrix[10][5]:
+Enter value for matrix[10][6]:
+Enter value for matrix[10][7]:
+Enter value for matrix[10][8]:
+Enter value for matrix[10][9]:
+Enter value for matrix[10][10]:
+
+Two Dimensional array Matrix:
+
+		0	1	2	3	4	5	6	7	8	9	10
+		__	__	__	__	__	__	__	__	__	__	__	
+
+0	|	0	0	0	0	1	1	0	1	0	1	1
+
+1	|	0	0	0	0	0	0	0	0	0	0	0
+
+2	|	0	1	0	0	0	0	0	0	0	0	0
+
+3	|	0	0	0	0	0	0	0	0	0	0	0
+
+4	|	0	0	0	0	0	0	0	0	0	0	0
+
+5	|	0	0	0	0	0	0	0	0	0	0	0
+
+6	|	1	0	1	0	0	0	0	0	1	0	0
+
+7	|	0	0	0	0	0	0	0	0	0	0	0
+
+8	|	0	0	0	1	0	0	0	0	0	0	0
+
+9	|	0	0	0	0	0	0	0	0	0	0	0
+
+10	|	0	0	0	0	0	0	0	0	0	0	0
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 0 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 1 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 2 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 3 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 4 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 5 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 6 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 7 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 8 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 9 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 6, and 10 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 10 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 9 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 7 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 5 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 4 have an ancestor (: 
+
+Please enter row value and col value followed by space: 
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 8, and 10 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 2, and 4 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 5, and 7 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 1 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 
+>>>>>>>>>>The requested values 0, and 3 dont have an ancestor!!
+
+if you want to try again with differnt values type them or type -1 -1 to stop.
+
+Please enter row value and col value followed by space: 

@@ -1,0 +1,455 @@
+############################################################################################################
+		                   ~Welcome to my complex calculator~                   
+
+		    Please enter function name followed by A-F letters & two numbers   
+		                 The availble functions are as followed                      
+*read_comp* *abs_comp* *print_comp* *add_comp* *sub_comp* *mult_comp_comp* *mult_comp_real* *mult_comp_img*
+
+		                       to stop, just write 'stop'                        
+
+-----➜
+The command you have entered is: ➜ print_comp A
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ print_comp          B
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜     print_comp C
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜       print_comp    D
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜         print_comp          E           
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜   print_comp   F
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜   
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp A , 2 , 3
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp B , 4 , 5
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp C , 6 , 7
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp D , 8 , 9
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp E , 10 , 11
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp F , 12 , 13
+ 
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ print_comp A
+ 
+2.00 + (3.00)i
+-----➜
+The command you have entered is: ➜ print_comp B
+ 
+4.00 + (5.00)i
+-----➜
+The command you have entered is: ➜ print_comp C
+ 
+6.00 + (7.00)i
+-----➜
+The command you have entered is: ➜ print_comp D
+ 
+8.00 + (9.00)i
+-----➜
+The command you have entered is: ➜ print_comp E
+ 
+10.00 + (11.00)i
+-----➜
+The command you have entered is: ➜ print_comp F
+ 
+12.00 + (13.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ sub_comp B, A
+ 
+2.00 + (2.00)i
+-----➜
+The command you have entered is: ➜ sub_comp D, C
+ 
+2.00 + (2.00)i
+-----➜
+The command you have entered is: ➜ sub_comp F, E
+ 
+2.00 + (2.00)i
+-----➜
+The command you have entered is: ➜ sub_comp A, B
+ 
+-2.00 - (2.00)i
+-----➜
+The command you have entered is: ➜ sub_comp C, D
+ 
+-2.00 - (2.00)i
+-----➜
+The command you have entered is: ➜ sub_comp E, F
+ 
+-2.00 - (2.00)i
+-----➜
+The command you have entered is: ➜ add_comp A, B
+ 
+6.00 + (8.00)i
+-----➜
+The command you have entered is: ➜ add_comp C, D
+ 
+14.00 + (16.00)i
+-----➜
+The command you have entered is: ➜ add_comp E, F
+ 
+22.00 + (24.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_real A, 3
+ 
+6.00 + (9.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_real B, 3
+ 
+12.00 + (15.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_real C, 3
+ 
+18.00 + (21.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_real D, 3
+ 
+24.00 + (27.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_real E, 3
+ 
+30.00 + (33.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_real F, 3
+ 
+36.00 + (39.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_img A, 2
+ 
+-6.00 + (4.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_img B, 2
+ 
+-10.00 + (8.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_img C, 2
+ 
+-14.00 + (12.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_img D, 2
+ 
+-18.00 + (16.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_img E, 2
+ 
+-22.00 + (20.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_img F, 2
+ 
+-26.00 + (24.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp A, B
+ 
+-7.00 + (22.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp A, F
+ 
+-15.00 + (62.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp B, C
+ 
+-11.00 + (58.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp B, E
+ 
+-15.00 + (94.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp C, D
+ 
+-15.00 + (110.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp E, F
+ 
+-23.00 + (262.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ abs_comp A
+ 
+3.61 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp B
+ 
+6.40 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp C
+ 
+9.22 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp D
+ 
+12.04 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp E
+ 
+14.87 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp F
+ 
+17.69 + (0.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp A , .2 , 3030
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp B , 40.85 , 5123.5123
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp C , 666 , .556
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp D , -3 , 23049123
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp E , .01 , 10
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp F , -999 , 190
+ 
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ print_comp A
+ 
+0.20 + (3030.00)i
+-----➜
+The command you have entered is: ➜ print_comp B
+ 
+40.85 + (5123.51)i
+-----➜
+The command you have entered is: ➜ print_comp C
+ 
+666.00 + (0.56)i
+-----➜
+The command you have entered is: ➜ print_comp D
+ 
+-3.00 + (23049124.00)i
+-----➜
+The command you have entered is: ➜ print_comp E
+ 
+0.01 + (10.00)i
+-----➜
+The command you have entered is: ➜ print_comp F
+ 
+-999.00 + (190.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ sub_comp B, A
+ 
+40.65 + (2093.51)i
+-----➜
+The command you have entered is: ➜ sub_comp D, C
+ 
+-669.00 + (23049124.00)i
+-----➜
+The command you have entered is: ➜ sub_comp F, E
+ 
+-999.01 + (180.00)i
+-----➜
+The command you have entered is: ➜ sub_comp A, B
+ 
+-40.65 - (2093.51)i
+-----➜
+The command you have entered is: ➜ sub_comp C, D
+ 
+669.00 - (23049124.00)i
+-----➜
+The command you have entered is: ➜ sub_comp E, F
+ 
+999.01 - (180.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ add_comp A, B
+ 
+41.05 + (8153.51)i
+-----➜
+The command you have entered is: ➜ add_comp C, D
+ 
+663.00 + (23049124.00)i
+-----➜
+The command you have entered is: ➜ add_comp E, F
+ 
+-998.99 + (200.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_real A, 2
+ 
+0.40 + (6060.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_real B, 2
+ 
+81.70 + (10247.02)i
+-----➜
+The command you have entered is: ➜ mult_comp_real C, 2
+ 
+1332.00 + (1.11)i
+-----➜
+The command you have entered is: ➜ mult_comp_real D, 2
+ 
+-6.00 + (46098248.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_real E, 2
+ 
+0.02 + (20.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_real F, 2
+ 
+-1998.00 + (380.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_img A, 2
+ 
+-6060.00 + (0.40)i
+-----➜
+The command you have entered is: ➜ mult_comp_img B, 2
+ 
+-10247.02 + (81.70)i
+-----➜
+The command you have entered is: ➜ mult_comp_img C, 2
+ 
+-1.11 + (1332.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_img D, 2
+ 
+-46098248.00 - (6.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_img E, 2
+ 
+-20.00 + (0.02)i
+-----➜
+The command you have entered is: ➜ mult_comp_img F, 2
+ 
+-380.00 - (1998.00)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp A, B
+ 
+-15524234.00 + (124800.20)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp A, F
+ 
+-575899.81 - (3026932.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp B, C
+ 
+24357.43 + (3412282.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp B, E
+ 
+-51234.71 + (459.74)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp C, D
+ 
+-12817311.00 + (15350716416.00)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp E, F
+ 
+-1909.99 - (9988.10)i
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ abs_comp A
+ 
+3030.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp B
+ 
+5123.68 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp C
+ 
+666.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp D
+ 
+23049124.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp E
+ 
+10.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp F
+ 
+1016.91 + (0.00)i
+-----➜
+The command you have entered is: ➜ stop 

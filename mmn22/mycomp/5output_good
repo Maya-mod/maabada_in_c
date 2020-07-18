@@ -1,0 +1,95 @@
+############################################################################################################
+		                   ~Welcome to my complex calculator~                   
+
+		    Please enter function name followed by A-F letters & two numbers   
+		                 The availble functions are as followed                      
+*read_comp* *abs_comp* *print_comp* *add_comp* *sub_comp* *mult_comp_comp* *mult_comp_real* *mult_comp_img*
+
+		                       to stop, just write 'stop'                        
+
+-----➜
+The command you have entered is: ➜ print_comp A
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ print_comp B
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ print_comp C
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ read_comp A, 45.1, -23.75
+ 
+
+-----➜
+The command you have entered is: ➜ print_comp A
+ 
+45.10 - (23.75)i
+-----➜
+The command you have entered is: ➜ read_comp B, 54.2, 3.56
+ 
+
+-----➜
+The command you have entered is: ➜ print_comp B
+ 
+54.20 + (3.56)i
+-----➜
+The command you have entered is: ➜ read_comp C, 0, -1
+ 
+
+-----➜
+The command you have entered is: ➜ print_comp C
+ 
+0.00 - (1.00)i
+-----➜
+The command you have entered is: ➜ add_comp A, B
+ 
+99.30 - (20.19)i
+-----➜
+The command you have entered is: ➜ sub_comp C, A
+ 
+-45.10 + (22.75)i
+-----➜
+The command you have entered is: ➜ sub_comp B, B
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ sub_comp D, A
+ 
+-45.10 + (23.75)i
+-----➜
+The command you have entered is: ➜ mult_comp_real A, 2.51
+ 
+113.20 - (59.61)i
+-----➜
+The command you have entered is: ➜ mult_comp_img A, -2.564
+ 
+-60.89 - (115.64)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp A, B
+ 
+2528.97 - (1126.69)i
+-----➜
+The command you have entered is: ➜ mult_comp_comp E, C
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp A
+ 
+50.97 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp B
+ 
+54.32 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp C
+ 
+1.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ abs_comp F
+ 
+0.00 + (0.00)i
+-----➜
+The command you have entered is: ➜ stop 

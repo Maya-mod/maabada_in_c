@@ -1,0 +1,113 @@
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: viva
+>>>The text is: vviaaa
+>>>>>>the location for the best match index is : 1
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: el
+>>>The text is: eeeeesel
+>>>>>>the location for the best match index is : 6
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: 674bccd2b4c48be3
+>>>The text is: 106516410cd2b4c48be14b4b1d76e220e
+>>>>>>the location for the best match index is : 4
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: pattern
+>>>The text is: pa
+
+>>>It appears that the pattern is larger then the text, 
+Please try again.
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: affa
+>>>The text is: abfassf
+>>>>>>the location for the best match index is : 0
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: abc
+>>>The text is: acbabcabb
+>>>>>>the location for the best match index is : 3
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: a
+>>>The text is: a
+>>>>>>the location for the best match index is : 0
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: a
+>>>The text is: ba
+>>>>>>the location for the best match index is : 1
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: a
+>>>The text is: qwertyuiopoiuytrewqa
+>>>>>>the location for the best match index is : 19
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: abcd
+>>>The text is: bbbafgdbcd
+>>>>>>the location for the best match index is : 6
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: $%$
+>>>The text is: $$$%$
+>>>>>>the location for the best match index is : 2
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: ^&&
+>>>The text is: @^%^&*
+>>>>>>the location for the best match index is : 3
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: 465
+>>>The text is: 65465
+>>>>>>the location for the best match index is : 2
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: 5
+>>>The text is: 1e231798uifhj89235eqwfcd
+>>>>>>the location for the best match index is : 17
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: 6681b0908aab869
+>>>The text is: c3388b96398a4837ab681b0908abb86f
+>>>>>>the location for the best match index is : 17
+
+
+>>>Please enter a Pattern :
+>>>Please enter the text for the pattern check :
+>>>The pattern is: 19ec77c5
+>>>The text is: 267d56feaedc453a91e338f5f9ec18c5
+>>>>>>the location for the best match index is : 24
+

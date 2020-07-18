@@ -1,0 +1,330 @@
+############################################################################################################
+		                   ~Welcome to my complex calculator~                   
+
+		    Please enter function name followed by A-F letters & two numbers   
+		                 The availble functions are as followed                      
+*read_comp* *abs_comp* *print_comp* *add_comp* *sub_comp* *mult_comp_comp* *mult_comp_real* *mult_comp_img*
+
+		                       to stop, just write 'stop'                        
+
+-----➜
+The command you have entered is: ➜ print_comp A,
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜ print_comp          B ,
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜     print_comp C    ,
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜       print_comp    D               ,
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜         print_comp          E     ?      
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜   print_comp  ,
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp A , 2 , 
+ 
+Missing parameter
+
+-----➜
+The command you have entered is: ➜ read_comp B ,  , 5
+ 
+Multiple consecutive commas
+
+-----➜
+The command you have entered is: ➜ read_comp C ,, 6 , , 7
+ 
+Multiple consecutive commas
+
+-----➜
+The command you have entered is: ➜ read_comp  , 8 , 9
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ read_comp E , 
+ 
+Missing parameter
+
+-----➜
+The command you have entered is: ➜ read_comp F , 12 
+ 
+Missing parameter
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ print_comp , A
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ print_comp ,B
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ print_comp, C
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ print_comp      ,D
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ print_comp  , E
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ print_comp ,F
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ sub_comp B A
+ 
+Missing comma
+
+-----➜
+The command you have entered is: ➜ sub_comp D , 3
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ sub_comp F ,x
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ sub_comp A  , .
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ sub_comp C,, D
+ 
+Multiple consecutive commas
+
+-----➜
+The command you have entered is: ➜ sub_comp E, ,F
+ 
+Multiple consecutive commas
+
+-----➜
+The command you have entered is: ➜ add_comp A ,, B
+ 
+Multiple consecutive commas
+
+-----➜
+The command you have entered is: ➜ add_comp C , , D
+ 
+Multiple consecutive commas
+
+-----➜
+The command you have entered is: ➜ add_comp E ,  ,F
+ 
+Multiple consecutive commas
+
+-----➜
+The command you have entered is: ➜ add_comp E ,,F
+ 
+Multiple consecutive commas
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_rea A, 2
+ 
+Undefined command name
+
+-----➜
+The command you have entered is: ➜ mult_comp_ral B, 2
+ 
+Undefined command name
+
+-----➜
+The command you have entered is: ➜ mult_compreal C, 2
+ 
+Undefined command name
+
+-----➜
+The command you have entered is: ➜ mult_cop_real D, 2
+ 
+Undefined command name
+
+-----➜
+The command you have entered is: ➜ mult_comasdp_real E, 2
+ 
+Undefined command name
+
+-----➜
+The command you have entered is: ➜ mult_FAKE_real F, 2
+ 
+Undefined command name
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_img A, A
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ mult_comp_img B, x.2
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ mult_comp_img C, B-3
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ mult_comp_img D, asd
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ mult_comp_img E, !
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ mult_comp_img F, ?
+ 
+Invalid parameter - not a number
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp A, g
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp e, F
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp a, C
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp B, E ,
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp C, D A
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜ mult_comp_comp E, F E
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜ abs_comp AA
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ abs_comp B,
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜ abs_comp CD
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ abs_comp D|
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ abs_comp E?
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ abs_comp Freckles
+ 
+Undefined complex variable
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ read_comp  , .2 , 3030 ,
+ 
+Illegal comma
+
+-----➜
+The command you have entered is: ➜ 
+ 
+
+-----➜
+The command you have entered is: ➜ stop A
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜ stop,
+ 
+Extraneous text after end of command
+
+-----➜
+The command you have entered is: ➜ stop , 
+Extraneous text after end of command
+
+-----➜
+Error reached EOF !
